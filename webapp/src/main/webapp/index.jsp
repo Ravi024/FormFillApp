@@ -6,6 +6,12 @@
     <br>
 
 
+   <label for="EMP ID "><b>EMP ID </b></label>
+    <input type="text" placeholder="Enter EMP ID " name="EMP ID " id="name" required>
+    <br>
+
+
+
     <label for="AADHAR CARD"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
